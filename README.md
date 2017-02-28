@@ -15,7 +15,7 @@ For some ideas of what that might look like, check out http://opendataday.org/#r
  - The theme is "Environment"
  - Raise any questions and feedback through GitHub issues
  
- ## Some data sources you might like to use
+## Some data sources you might like to use
  - http://www.stats.govt.nz/browse_for_stats/environment/environmental-reporting-series/environmental-indicators/Home.aspx
  - https://data.mfe.govt.nz/tables/category/environmental-reporting/
  - [Data.govt.nz - Environment and conservation](https://data.govt.nz/search?q=&CategoryID=8)
