@@ -23,4 +23,7 @@ For some ideas of what that might look like, check out http://opendataday.org/#r
  
  Add any others by opening a pull request.
  
- 
+## Getting help on the day
+We'll make use og GitHub issues to track Q & A for data use, data frustrations (we'll also have an in person help desk for this too). To use, sign up for a GitHub account and then [open an issue you're having](https://github.com/data-govt-nz/odd17/issues/new).
+
+Be sure to keep an eye on this area too as you may be able to help others!
