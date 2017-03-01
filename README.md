@@ -11,15 +11,19 @@ For some ideas of what that might look like, check out http://opendataday.org/#r
  - 4th March 2017, starts at 9am until 4:30pm
  - Hosted at the [National Library](https://www.google.co.nz/maps/place/National+Library/@-41.2768239,174.7757755,17z/data=!3m1!4b1!4m5!3m4!1s0x6d38ae2948146487:0xa3762b6d3b3e919c!8m2!3d-41.2768239!4d174.7779642), [Net.work space](https://natlib.govt.nz/visiting/wellington/network)
  - [Code of conduct](http://govhack.org.nz/resources/code-of-conduct/ ) (we are using the GovHack one, please respect this and your fellow open data hackers)
+ - Meet in the foyer in the morning for welcome and health & safety briefing.
+ - WIFI access point is "Free Library Wi-Fi", password is "wellington". You'll need to agree to the Terms of use.
  - Please no food or drinks without lids in the Net.work space (Home cafe is near by and there is a nice outside space too)
- - The theme is "Environment"
- - Raise any questions and feedback through GitHub issues
+ - The theme is "environment" so see what environment data you can find and use.
+ - Raise any questions and feedback through [GitHub issues](https://github.com/data-govt-nz/odd17/issues/new)
  
 ## Some data sources you might like to use
  - http://www.stats.govt.nz/browse_for_stats/environment/environmental-reporting-series/environmental-indicators/Home.aspx
  - https://data.mfe.govt.nz/tables/category/environmental-reporting/
- - [Data.govt.nz - Environment and conservation](https://data.govt.nz/search?q=&CategoryID=8)
+ - [Data.govt.nz - Environment and conservation datasets](https://data.govt.nz/search?q=&CategoryID=8)
  - [Landcare Research datastore](https://datastore.landcareresearch.co.nz/)
+ - [LINZ Data service](https://data.linz.govt.nz/)
+ 
  
  Add any others by opening a pull request.
  
