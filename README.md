@@ -25,9 +25,8 @@ For some ideas of what that might look like, check out http://opendataday.org/#r
  - [LINZ Data service](https://data.linz.govt.nz/)
  - [Greater Wellington Selected Land Use Register (locations where hazardous substances are)](http://mapping.gw.govt.nz/arcgis/rest/services/GW/Our_Environment_P/MapServer/39/)
 
- 
- 
- Add any others by opening a pull request.
+
+ Add any others by creating a [GitHub account](https://github.com/join), [editing this page](https://github.com/data-govt-nz/odd17/edit/master/README.md).
  
 ## Getting help on the day
 We'll make use og GitHub issues to track Q & A for data use, data frustrations (we'll also have an in person help desk for this too). To use, sign up for a GitHub account and then [open an issue you're having](https://github.com/data-govt-nz/odd17/issues/new).
