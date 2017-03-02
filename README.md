@@ -1,10 +1,14 @@
 # International Open Data Day 2017 - Wellington
 
+![Open data day wellington 2017](oddwelly-logo.png)
+
 Data.govt.nz are proud to be a part of this years Open Data Day hosted at the National Library of New Zealand's Net.work space on Saturday, 4th March 2017 (mark it in your calendar now!). This is an annual celebration of open data all over the world. For the 5th time in history, groups around the globe will create local events on this day as they use open data in their communities. It is an opportunity to show the benefits of open data & encourage the adoption of open data policies in government, business and civil society.
 
 Because Kiwis love our nature, the mini-hack day this year will be focused on environmental data.
 
 For some ideas of what that might look like, check out http://opendataday.org/#resources.
+
+
 
 ## What you need to know
 
