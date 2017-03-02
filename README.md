@@ -23,6 +23,8 @@ For some ideas of what that might look like, check out http://opendataday.org/#r
  - [Data.govt.nz - Environment and conservation datasets](https://data.govt.nz/search?q=&CategoryID=8)
  - [Landcare Research datastore](https://datastore.landcareresearch.co.nz/)
  - [LINZ Data service](https://data.linz.govt.nz/)
+ - [Greater Wellington Selected Land Use Register (locations where hazardous substances are)](http://mapping.gw.govt.nz/arcgis/rest/services/GW/Our_Environment_P/MapServer/39/)
+
  
  
  Add any others by opening a pull request.
