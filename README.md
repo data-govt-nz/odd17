@@ -68,3 +68,5 @@ Sometimes it can help to do some quick planning for your hack project. We sugges
  - [Statistics New Zealand](http://www.stats.govt.nz/)
  - all the mentors and hackers!
 
+## Sneak peak
+Congrats you read all the stuff - here's a reward, [sneak peak of the forthcoming new data.govt.nz open data portal](https://dia-ckan-staging-new.catalyst.net.nz/dataset). We're busy loading in more datasets from agencies all over central, local and regional government, [we'd love your feedback](mailto:info@data.govt.nz).
