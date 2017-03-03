@@ -56,6 +56,10 @@ We'll make use og GitHub issues to track Q & A for data use, data frustrations (
 
 Be sure to keep an eye on this area too as you may be able to help others!
 
+### Getting your project underway
+Sometimes it can help to do some quick planning for your hack project. We suggest giving a [Lean Canvas](http://socialleancanvas.com/) a go to help with your thought process. It's a simple 1 page plan that gives you enough to get moving on an idea. Give it a try.
+
+
 ## Big thanks to
  - [data.govt.nz](http://www.data.govt.nz)
  - [GovHackNZ](http://govhack.org.nz/)
