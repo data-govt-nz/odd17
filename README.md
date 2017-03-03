@@ -29,10 +29,29 @@ For some ideas of what that might look like, check out http://opendataday.org/#r
  - [LINZ Data service](https://data.linz.govt.nz/)
  - [Greater Wellington Selected Land Use Register (locations where hazardous substances are)](http://mapping.gw.govt.nz/arcgis/rest/services/GW/Our_Environment_P/MapServer/39/)
 
-
  Add any others by creating a [GitHub account](https://github.com/join), [editing this page](https://github.com/data-govt-nz/odd17/edit/master/README.md).
- 
+
+## Agenda for the day
+ - 9am Meet in the foyer conference room - Welcome, health and safety breifing and a few words from sponsors
+ - 9:15am Team forming, brainstorm ideas and problems
+ - 9:35am/9:45am - Start hacking on projects or learning new things about open data
+ - 10:30am - Morning tea
+ - 11:00am - Hack some more
+ - 12:30pm - LUNCH
+ - 1:00pm - More hacking & videographer arrives to document our open data day (you can opt out of this)
+ - 4:00pm - Back to the foyer conference room to show off the hacks
+ - 4:30pm - Finsh up, tidy up
+
 ## Getting help on the day
 We'll make use og GitHub issues to track Q & A for data use, data frustrations (we'll also have an in person help desk for this too). To use, sign up for a GitHub account and then [open an issue you're having](https://github.com/data-govt-nz/odd17/issues/new).
 
 Be sure to keep an eye on this area too as you may be able to help others!
+
+## Big thanks to
+ - [data.govt.nz](http://www.data.govt.nz)
+ - [GovHackNZ](http://govhack.org.nz/)
+ - [Open Data NZ](https://www.data.govt.nz/toolkit/open-data-in-new-zealand/open-data-nz/)
+ - [National Library of New Zealand](https://natlib.govt.nz/)
+ - [Statistics New Zealand](http://www.stats.govt.nz/)
+ - all the mentors and hackers!
+
