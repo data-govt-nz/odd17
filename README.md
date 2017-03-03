@@ -21,13 +21,22 @@ For some ideas of what that might look like, check out http://opendataday.org/#r
  - The theme is "environment" so see what environment data you can find and use.
  - Raise any questions and feedback through [GitHub issues](https://github.com/data-govt-nz/odd17/issues/new)
  
-## Some data sources you might like to use
+## Some data sources you might like to use for open dataday
+
  - http://www.stats.govt.nz/browse_for_stats/environment/environmental-reporting-series/environmental-indicators/Home.aspx
  - https://data.mfe.govt.nz/tables/category/environmental-reporting/
  - [Data.govt.nz - Environment and conservation datasets](https://data.govt.nz/search?q=&CategoryID=8)
  - [Landcare Research datastore](https://datastore.landcareresearch.co.nz/)
  - [LINZ Data service](https://data.linz.govt.nz/)
  - [Greater Wellington Selected Land Use Register (locations where hazardous substances are)](http://mapping.gw.govt.nz/arcgis/rest/services/GW/Our_Environment_P/MapServer/39/)
+ - [Department of Conservation APIs (Huts and Campsites)](http://www.doc.govt.nz/api)
+ - [Department of Conservation Geospatial data portal](http://geoportal.doc.govt.nz/geoportal/catalog/main/home.page)
+ - [Department of Conservation API - Regions](http://www.doc.govt.nz/api/profiles/regions)
+ - [Department of Conservation API - Walks](http://www.doc.govt.nz/api/profiles/walks)
+ - [Department of Conservation API - MTB Tracks](http://www.doc.govt.nz/api/profiles/cycling)
+ - [Department of Conservation API - Lodges](http://www.doc.govt.nz/api/profiles/lodges)
+ - [Department of Conservation API - Parks](http://www.doc.govt.nz/api/profiles/parks)
+
 
  Add any others by creating a [GitHub account](https://github.com/join), [editing this page](https://github.com/data-govt-nz/odd17/edit/master/README.md).
 
