@@ -9,6 +9,17 @@ Because Kiwis love our nature, the mini-hack day this year will be focused on en
 For some ideas of what that might look like, check out http://opendataday.org/#resources.
 
 ## Team projects
+
+ - Healthy planet heroes - A gamified educational application for kids to track healthy eating and use of transport getting to school that results in tracking carbon emissions. 
+ 
+ - Geocoding of Alexander Turnbull Library items - Combines geolocation data from the LINZ data service with recently released collections open datasets from Alexander Turnbull Library to show how our environment connects to historic items. 
+ 
+ - Decision distillers - Functioning tool prototype using QV open data feeds, traffic data, air and water quality data to determine economic benefits and help decisions with land use. 
+ 
+ - Fire spread predictor tool - Tool that could make use of geographic data of fires combined with wind velocity/direction data to predict potential fire spread and warn citizens ahead of time for evacuation purposes.
+ 
+ - SafeWater - A functioning prototype mobile application for checking whether water near you is safe to swim in and crowdsource water quality observations.
+
  - [Eascape routes](EscapeRoutes/Readme.md) - Concept for an application that shows official evacuation routes in the event of an earthquake or tsunami overlaid with local crowd sourced routes.
 
 ## What you need to know
