@@ -8,7 +8,8 @@ Because Kiwis love our nature, the mini-hack day this year will be focused on en
 
 For some ideas of what that might look like, check out http://opendataday.org/#resources.
 
-
+## Team projects
+ - [Eascape routes](EscapeRoutes/Readme.md) - Concept for an application that shows official evacuation routes in the event of an earthquake or tsunami overlaid with local crowd sourced routes.
 
 ## What you need to know
 
