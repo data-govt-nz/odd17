@@ -10,7 +10,7 @@ For some ideas of what that might look like, check out http://opendataday.org/#r
 
 ## Team projects
 
- - Healthy planet heroes - A gamified educational application for kids to track healthy eating and use of transport getting to school that results in tracking carbon emissions. 
+ - [Healthy planet heroes](https://github.com/tonycairns1/Healthy-Planet-Heros) - A gamified educational application for kids to track healthy eating and use of transport getting to school that results in tracking carbon emissions. 
  
  - Geocoding of Alexander Turnbull Library items - Combines geolocation data from the LINZ data service with recently released collections open datasets from Alexander Turnbull Library to show how our environment connects to historic items. 
  
