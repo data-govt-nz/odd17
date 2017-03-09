@@ -18,7 +18,7 @@ For some ideas of what that might look like, check out http://opendataday.org/#r
  
  - Fire spread predictor tool - Tool that could make use of geographic data of fires combined with wind velocity/direction data to predict potential fire spread and warn citizens ahead of time for evacuation purposes.
  
- - SafeWater - A functioning prototype mobile application for checking whether water near you is safe to swim in and crowdsource water quality observations.
+ - [SafeWater](https://jvdanker.github.io/) ([code](https://github.com/jvdanker/jvdanker.github.io)) - A functioning prototype mobile application for checking whether water near you is safe to swim in and crowdsource water quality observations.
 
  - [Eascape routes](EscapeRoutes/Readme.md) - Concept for an application that shows official evacuation routes in the event of an earthquake or tsunami overlaid with local crowd sourced routes.
 
